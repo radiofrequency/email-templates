@@ -17,7 +17,6 @@
     "consolidate": "^0.14.5",
     "debug": "^3.1.0",
     "fs-extra": "^4.0.2",
-    "get-paths": "^0.0.2",
     "html-to-text": "^3.3.0",
     "juice": "^4.2.0",
     "juice-resources-promise": "^0.0.2",
